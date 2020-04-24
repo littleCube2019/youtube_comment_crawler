@@ -1,6 +1,6 @@
 # youtube_comment_crawler
 U2 comment crawler
-#大致流程
+## 大致流程
 
 
 將所有主頁url丟到urls
@@ -29,6 +29,6 @@ channeltitle
 
 最後交給get_text.sh 取得該影片所有留言
 
-#使用方法
+## 使用方法
 將要爬的主頁url放入urls
 然後呼叫main.sh即可
